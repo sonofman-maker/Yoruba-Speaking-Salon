@@ -255,7 +255,7 @@ export default function App() {
   const [showKey, setShowKey] = useState(false);
   const [keyStatus, setKeyStatus] = useState(null); // null | 'ok' | 'error' | 'checking'
   // Olufunmilola — African Female with Nigerian Accent (Yoruba)
-  const ELEVENLABS_VOICE_ID = '2zMRxJcRxhzQVOwfNjib';
+  const ELEVENLABS_VOICE_ID = '9Dbo4hEvXQ5l7MXGZFQA';
   const ELEVENLABS_MODEL = 'eleven_v3';
 
   // Cache generated audio per text+rate so repeats don't burn credits
